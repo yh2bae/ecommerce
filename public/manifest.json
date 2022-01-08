@@ -1,7 +1,7 @@
 {
-  "short_name": "Next Ecommerce",
-  "name": "Next Ecommerce",
-  "description": "Next Ecommerce System",
+  "short_name": "React Ecommerce",
+  "name": "React Ecommerce",
+  "description": "React Ecommerce System",
   "lang": "en-US",
   "start_url": "/",
   "display": "standalone",
